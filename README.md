@@ -1,0 +1,1 @@
+This is Ivan Franko's first git project!
